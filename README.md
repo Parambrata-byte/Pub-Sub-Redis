@@ -20,4 +20,4 @@
 
 # Aknowledgements
 
-- [ioredis](https://npmjs.com/package/redis.io/)
+- [ioredis](https://www.npmjs.com/package/ioredis)
